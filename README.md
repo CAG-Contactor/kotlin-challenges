@@ -6,7 +6,7 @@ En samling grundläggande Kotlin-övningar för Java-utvecklare.
 
 Varje fil i `kotlin.challenge` innehåller:
 - Ett Java-exempel som kommentar
-- En tydlig uppgift
+- En uppgift
 - En plats för din Kotlin-lösning
 
 ## Så här kör du
